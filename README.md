@@ -7,6 +7,7 @@
 > Tools, languages, and other things that I like to work with.
 
 <p>
+  <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Aphp"><img alt="MIPS Assembly" src="https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=fff"></a>
   <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -16,6 +17,14 @@
   <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Aphp"><img alt="" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=fff"></a>
+  <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Aphp"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff"></a>
+  <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Aphp"><img alt="" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=fff"></a>
+  <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Aphp"><img alt="" src="https://img.shields.io/badge/-Composer-885630?style=flat&logo=composer&logoColor=fff"></a>
+  <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Aphp"><img alt="" src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=fff"></a>
+  <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Aphp"><img alt="" src="https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=fff"></a>
+  <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Aphp"><img alt="" src="https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Aphp"><img alt="" src="https://img.shields.io/badge/-cURL-073551?style=flat&&logo=curl&logoColor=ffffff"></a>
   <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
