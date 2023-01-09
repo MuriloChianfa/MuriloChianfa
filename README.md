@@ -66,6 +66,15 @@ In the overview below you will find my most recent work experience:
 Languages & Technologies: `PHP`, `Laravel`, `Docker`, `Debian` \
 <br/>
 
+## 🔥 Github stats
+
+<div align="center">
+  <a href="https://github.com/MuriloChianfa">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MuriloChianfa&show_icons=true&theme=ayu-mirage&hide_border=true&border_radius=0&include_all_commits=true&count_private=true&include_all_commits=true&disable_animations=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloChianfa&show_icons=true&theme=ayu-mirage&hide_border=true&border_radius=0&include_all_commits=true&count_private=true&include_all_commits=true&disable_animations=true&hide=css,javascript&langs_count=8"/>
+  </a>
+</div>
+
 ## 🔥 Streak stats
 
 <p align="center">
