@@ -70,8 +70,8 @@ Languages & Technologies: `PHP`, `Laravel`, `Docker`, `Debian` \
 
 <div align="center">
   <a href="https://github.com/MuriloChianfa">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=MuriloChianfa&show_icons=true&theme=ayu-mirage&hide_border=true&border_radius=0&include_all_commits=true&count_private=true&include_all_commits=true&disable_animations=true"/>
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloChianfa&show_icons=true&theme=ayu-mirage&hide_border=true&border_radius=0&include_all_commits=true&count_private=true&include_all_commits=true&disable_animations=true&hide=css,javascript&langs_count=6"/>
+    <img height="220em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuriloChianfa&show_icons=true&theme=ayu-mirage&hide_border=true&border_radius=0&include_all_commits=true&count_private=true&include_all_commits=true&disable_animations=true"/>
+    <img height="220em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuriloChianfa&show_icons=true&theme=ayu-mirage&hide_border=true&border_radius=0&include_all_commits=true&count_private=true&include_all_commits=true&disable_animations=true&hide=css,javascript&langs_count=6"/>
   </a>
 </div>
 
