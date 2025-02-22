@@ -62,7 +62,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="Made4it" src="img/m4it.png"/>](https://www.made4it.com.br/)
 
 **Software Developer** \
-[**Made4it**](https://www.made4it.com.br/) • Helping ISPs with fight of DDoS Attacks! \
+[**Made4it**](https://www.made4it.com.br/) • Helping ISPs with the fight against DDoS attacks! \
 Languages & Technologies: `PHP`, `Laravel`, `Docker`, `Debian` \
 <br/>
 
