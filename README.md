@@ -74,3 +74,7 @@ Languages & Technologies: `PHP`, `Laravel`, `Docker`, `Debian` \
     <img height="195em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuriloChianfa&show_icons=true&theme=ayu-mirage&hide_border=true&border_radius=0&include_all_commits=true&count_private=true&include_all_commits=true&disable_animations=true&hide=css,javascript&langs_count=5"/>
   </a>
 </div>
+
+<div align="center">
+GPG Fingerprint: <strong><a href="https://keys.openpgp.org/vks/v1/by-fingerprint/3E1A1F401A1C47BC77D1705612D0D82387FC53B0">3E1A 1F40 1A1C 47BC 77D1  7056 12D0 D823 87FC 53B0</a></strong>
+</div>
