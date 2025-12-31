@@ -70,8 +70,8 @@ Languages & Technologies: `PHP`, `Laravel`, `Docker`, `Debian` \
 
 <div align="center">
   <a href="https://github.com/MuriloChianfa">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MuriloChianfa's streak" src="https://github-readme-streak-stats-seven-azure.vercel.app/?user=MuriloChianfa&theme=monokai-metallian&mode=weekly&border_radius=0&hide_border=true"/>
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloChianfa&show_icons=true&theme=ayu-mirage&hide_border=true&border_radius=0&include_all_commits=true&count_private=true&include_all_commits=true&disable_animations=true&hide=css,javascript&langs_count=5"/>
+    <img title="MuriloChianfa" alt="MuriloChianfa's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=MuriloChianfa&theme=monokai-metallian&mode=weekly&border_radius=0&hide_border=true"/>
+    <img height="195em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuriloChianfa&show_icons=true&theme=ayu-mirage&hide_border=true&border_radius=0&include_all_commits=true&count_private=true&include_all_commits=true&disable_animations=true&hide=css,javascript&langs_count=5"/>
   </a>
 </div>
 
